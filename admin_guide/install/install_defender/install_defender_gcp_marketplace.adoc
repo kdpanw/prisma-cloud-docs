@@ -41,7 +41,7 @@ image::gcp5.png[width=600]
 .. Copy the URL in Path to Console.
 GCP uses this URL to get all the setup artifacts from your Prisma Cloud Console. In this example, it's \https://us-east1.cloud.twistlock.com/us-1-111573360.
 +
-image::gcp6.png[width=600]
+
 
 . To get a token for your Prisma Cloud Compute Console.
 
